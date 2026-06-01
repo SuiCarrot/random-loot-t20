@@ -1,0 +1,676 @@
+{
+  "entries": [
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Ácido",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "label": "Água benta",
+      "book": "Tormenta20",
+      "page": 155
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "label": "Alaúde élfico",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "label": "Algemas",
+      "book": "Tormenta20",
+      "page": 155
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Baga-de-fogo",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "label": "Bálsamo restaurador",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "label": "Bandana",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "label": "Bandoleira de poções",
+      "book": "Tormenta20",
+      "page": 155
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "label": "Bomba",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "label": "Botas reforçadas",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "label": "Camisa bufante",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "label": "Capa esvoaçante",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "label": "Capa pesada",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "label": "Casaco longo",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "label": "Chapéu arcano",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "label": "Coleção de livros",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "label": "Cosmético",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "label": "Dente-de-dragão",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 21,
+      "max": 21,
+      "label": "Enfeite de elmo",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 22,
+      "max": 22,
+      "label": "Elixir do amor",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 23,
+      "max": 23,
+      "label": "Equipamento de viagem",
+      "book": "Tormenta20",
+      "page": 155
+    },
+    {
+      "min": 24,
+      "max": 26,
+      "label": "Essência de mana",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "label": "Estojo de disfarces",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "label": "Farrapos de ermitão",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "label": "Flauta mística",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "label": "Fogo alquímico",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "label": "Gorro de ervas",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "label": "Líquen lilás",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "label": "Luneta",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "label": "Luva de pelica",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "label": "Maleta de medicamentos",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "label": "Manopla",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 37,
+      "max": 37,
+      "label": "Manto eclesiástico",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 38,
+      "max": 38,
+      "label": "Mochila de aventureiro",
+      "book": "Tormenta20",
+      "page": 155
+    },
+    {
+      "min": 39,
+      "max": 39,
+      "label": "Musgo púrpura",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "label": "Organizador de pergaminhos",
+      "book": "Tormenta20",
+      "page": 155
+    },
+    {
+      "min": 41,
+      "max": 41,
+      "label": "Ossos de monstro",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 42,
+      "max": 42,
+      "label": "Pó de cristal",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 43,
+      "max": 43,
+      "label": "Pó de giz",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "label": "Pó do desaparecimento",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "label": "Robe místico",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 46,
+      "max": 46,
+      "label": "Saco de sal",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 47,
+      "max": 47,
+      "label": "Sapatos de camurça",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 48,
+      "max": 48,
+      "label": "Seixo de âmbar",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 49,
+      "max": 49,
+      "label": "Sela",
+      "book": "Tormenta20",
+      "page": 158
+    },
+    {
+      "min": 50,
+      "max": 50,
+      "label": "Tabardo",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "label": "Traje da corte",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 52,
+      "max": 52,
+      "label": "Terra de cemitério",
+      "book": "Tormenta20",
+      "page": 161
+    },
+    {
+      "min": 53,
+      "max": 53,
+      "label": "Veste de seda",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 54,
+      "max": 54,
+      "label": "Corda de teia",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "label": "Dente de wisphago",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 56,
+      "max": 56,
+      "label": "Bomba de fumaça",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 57,
+      "max": 57,
+      "label": "Elixir quimérico",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "label": "Éter elemental",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "label": "Óleo de besouro",
+      "book": "Ameaças de Arton",
+      "page": 397
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "label": "Água benta concentrada",
+      "book": "Deuses de Arton",
+      "page": 48
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "label": "Aspersório",
+      "book": "Deuses de Arton",
+      "page": 48
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "label": "Patuá",
+      "book": "Deuses de Arton",
+      "page": 49
+    },
+    {
+      "min": 63,
+      "max": 63,
+      "label": "Panfleto de aforismos",
+      "book": "Deuses de Arton",
+      "page": 49
+    },
+    {
+      "min": 64,
+      "max": 64,
+      "label": "Texto sagrado",
+      "book": "Deuses de Arton",
+      "page": 49
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "label": "Hábito sacerdotal",
+      "book": "Deuses de Arton",
+      "page": 49
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "label": "Manto de alto sacerdote",
+      "book": "Deuses de Arton",
+      "page": 49
+    },
+    {
+      "min": 67,
+      "max": 67,
+      "label": "Sandálias",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 68,
+      "max": 68,
+      "label": "Piercing de umbigo",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 69,
+      "max": 69,
+      "label": "Incenso",
+      "book": "Deuses de Arton",
+      "page": 52
+    },
+    {
+      "min": 70,
+      "max": 70,
+      "label": "Santa granada de mão",
+      "book": "Deuses de Arton",
+      "page": 52
+    },
+    {
+      "min": 71,
+      "max": 71,
+      "label": "Fitilho consagrado",
+      "book": "Deuses de Arton",
+      "page": 52
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "label": "Pena de anjo",
+      "book": "Deuses de Arton",
+      "page": 52
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "label": "Ábaco",
+      "book": "Heróis de Arton",
+      "page": 227
+    },
+    {
+      "min": 74,
+      "max": 74,
+      "label": "Ampulheta",
+      "book": "Heróis de Arton",
+      "page": 227
+    },
+    {
+      "min": 75,
+      "max": 75,
+      "label": "Astrolábio",
+      "book": "Heróis de Arton",
+      "page": 227
+    },
+    {
+      "min": 76,
+      "max": 76,
+      "label": "Bainha adornada",
+      "book": "Heróis de Arton",
+      "page": 227
+    },
+    {
+      "min": 77,
+      "max": 77,
+      "label": "Bússola",
+      "book": "Heróis de Arton",
+      "page": 227
+    },
+    {
+      "min": 78,
+      "max": 78,
+      "label": "Diagrama anatômico",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 79,
+      "max": 79,
+      "label": "Estrepes",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 80,
+      "max": 80,
+      "label": "Lampião de foco",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 81,
+      "max": 81,
+      "label": "Leque",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 82,
+      "max": 82,
+      "label": "Lupa",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 83,
+      "max": 83,
+      "label": "Mapa (mestre define de qual região)",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "label": "Mecanismo de mola",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "label": "Mochila discreta",
+      "book": "Heróis de Arton",
+      "page": 230
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "label": "Sinete",
+      "book": "Heróis de Arton",
+      "page": 231
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "label": "Apito de caça",
+      "book": "Heróis de Arton",
+      "page": 231
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "label": "Baralho marcado",
+      "book": "Heróis de Arton",
+      "page": 231
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "label": "Clarim deheoni",
+      "book": "Heróis de Arton",
+      "page": 231
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "label": "Pandeiro das estradas",
+      "book": "Heróis de Arton",
+      "page": 231
+    },
+    {
+      "min": 91,
+      "max": 91,
+      "label": "Camisolão",
+      "book": "Heróis de Arton",
+      "page": 232
+    },
+    {
+      "min": 92,
+      "max": 92,
+      "label": "Casaca de apetrechos",
+      "book": "Heróis de Arton",
+      "page": 232
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "label": "Chapéu emplumado",
+      "book": "Heróis de Arton",
+      "page": 232
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "label": "Elmo leve",
+      "book": "Heróis de Arton",
+      "page": 232
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "label": "Elmo pesado",
+      "book": "Heróis de Arton",
+      "page": 232
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "label": "Rondel",
+      "book": "Heróis de Arton",
+      "page": 233
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "label": "Sapatos confortáveis",
+      "book": "Heróis de Arton",
+      "page": 233
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "label": "Sapatos de salto alto",
+      "book": "Heróis de Arton",
+      "page": 233
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "label": "Ácido concentrado",
+      "book": "Heróis de Arton",
+      "page": 234
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Frasco abissal",
+      "book": "Heróis de Arton",
+      "page": 234
+    }
+  ]
+}

@@ -1,0 +1,1440 @@
+{
+  "weapons": [
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Alvorada",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 2,
+      "max": 5,
+      "label": "Ameaçadora",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "label": "Anátema",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "label": "Anticriatura",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "label": "Arremesso",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "label": "Assassina",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "label": "Brumosa",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "label": "Caçadora",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "label": "Cantante",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "label": "Ciclônica",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 15,
+      "max": 18,
+      "label": "Congelante",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "label": "Conjuradora",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 20,
+      "max": 23,
+      "label": "Corrosiva",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 24,
+      "max": 25,
+      "label": "Crescente",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "label": "Cristalina",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "label": "Cronal*",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "label": "Cuidadora",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 29,
+      "max": 30,
+      "label": "Dançarina",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 31,
+      "max": 32,
+      "label": "Defensora",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "label": "Destruidora",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 34,
+      "max": 35,
+      "label": "Dilacerante",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "label": "Drenante",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 37,
+      "max": 40,
+      "label": "Elétrica",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 41,
+      "max": 41,
+      "label": "Energética*",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 42,
+      "max": 43,
+      "label": "Espreitadora",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 44,
+      "max": 45,
+      "label": "Excruciante",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 46,
+      "max": 49,
+      "label": "Flamejante",
+      "book": "Tormenta20",
+      "page": 335
+    },
+    {
+      "min": 50,
+      "max": 57,
+      "label": "Formidável",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 58,
+      "max": 59,
+      "label": "Frenética",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "label": "Gárgula",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "label": "Horrenda",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "label": "Indignada",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 63,
+      "max": 63,
+      "label": "Infestada",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 64,
+      "max": 64,
+      "label": "Lancinante*",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 65,
+      "max": 72,
+      "label": "Magnífica*",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "label": "Manáfaga",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 74,
+      "max": 75,
+      "label": "Piedosa",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 76,
+      "max": 76,
+      "label": "Profana",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 77,
+      "max": 77,
+      "label": "Rebote",
+      "book": "Heróis de Arton",
+      "page": 256
+    },
+    {
+      "min": 78,
+      "max": 78,
+      "label": "Reflexiva",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 79,
+      "max": 79,
+      "label": "Ressonante",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 80,
+      "max": 80,
+      "label": "Sagrada",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 81,
+      "max": 82,
+      "label": "Sanguinária",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 83,
+      "max": 83,
+      "label": "Sepulcral",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "label": "Sombria",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "label": "Trovejante",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "label": "Tumular",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "label": "Vampírica",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 88,
+      "max": 89,
+      "label": "Veloz",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "label": "Venenosa",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 91,
+      "max": 100,
+      "label": "Arma específica",
+      "book": "Role na tabela abaixo"
+    },
+    {
+      "min": 1,
+      "max": 2,
+      "label": "Adaga da bruma",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "label": "Adaga ofídica",
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "label": "Adaga sorrateira",
+      "book": "Deuses de Arton",
+      "page": 56
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Alabarda da coragem",
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "label": "Alfange dourado",
+      "book": "Deuses de Arton",
+      "page": 56
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "label": "Alguma coisa de Nimb...",
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 8,
+      "max": 10,
+      "label": "Arco das sombras",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 11,
+      "max": 12,
+      "label": "Arco do crepúsculo",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 13,
+      "max": 15,
+      "label": "Arco do poder",
+      "book": "Tormenta20",
+      "page": 336
+    },
+    {
+      "min": 16,
+      "max": 18,
+      "label": "Avalanche",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 19,
+      "max": 21,
+      "label": "Azagaia dos relâmpagos",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 22,
+      "max": 23,
+      "label": "Azagaia fantasma",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 24,
+      "max": 26,
+      "label": "Besta estelar",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 27,
+      "max": 29,
+      "label": "Besta explosiva",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "label": "Bordão sabichão",
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "label": "Cajado das matas",
+      "book": "Deuses de Arton",
+      "page": 55
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "label": "Cimitarra solar",
+      "book": "Deuses de Arton",
+      "page": 56
+    },
+    {
+      "min": 33,
+      "max": 34,
+      "label": "Clava de lava",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 35,
+      "max": 37,
+      "label": "Espada baronial",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 38,
+      "max": 39,
+      "label": "Espada da tempestade",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 40,
+      "max": 42,
+      "label": "Espada do guardião",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 43,
+      "max": 43,
+      "label": "Espada imaculada",
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "label": "Espada monástica",
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 45,
+      "max": 46,
+      "label": "Espada solar",
+      "book": "Heróis de Arton",
+      "page": 257
+    },
+    {
+      "min": 47,
+      "max": 49,
+      "label": "Espada sortuda",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 50,
+      "max": 51,
+      "label": "Florete do vendaval",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 52,
+      "max": 54,
+      "label": "Florete fugaz",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "label": "Katana da determinação",
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 56,
+      "max": 58,
+      "label": "Lâmina da luz",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 59,
+      "max": 61,
+      "label": "Lança animalesca",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "label": "Lança da dominação",
+      "book": "Deuses de Arton",
+      "page": 56
+    },
+    {
+      "min": 63,
+      "max": 64,
+      "label": "Lança da fênix",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 65,
+      "max": 67,
+      "label": "Língua do deserto",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 68,
+      "max": 70,
+      "label": "Maça do terror",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 71,
+      "max": 71,
+      "label": "Maça monstruosa",
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "label": "Machado da bravura",
+      "book": "Deuses de Arton",
+      "page": 55
+    },
+    {
+      "min": 73,
+      "max": 74,
+      "label": "Machado da natureza",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 75,
+      "max": 76,
+      "label": "Machado do abismo",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 77,
+      "max": 79,
+      "label": "Machado do vulcão",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 80,
+      "max": 80,
+      "label": "Machado lamnoriano",
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 81,
+      "max": 83,
+      "label": "Machado silvestre",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "label": "Mangual aventureiro",
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 85,
+      "max": 86,
+      "label": "Martelo da terra",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 87,
+      "max": 89,
+      "label": "Martelo de Doherimm",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 90,
+      "max": 91,
+      "label": "Martelo do titã",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 92,
+      "max": 93,
+      "label": "Punhal das profundezas",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 94,
+      "max": 96,
+      "label": "Punhal sszzaazita",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "label": "Tridente aquoso",
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 98,
+      "max": 100,
+      "label": "Vingadora sagrada",
+      "book": "Tormenta20",
+      "page": 338
+    }
+  ],
+  "armor": [
+    {
+      "min": 1,
+      "max": 2,
+      "label": "Abascanto",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "label": "Abençoado",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Abissal",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "label": "Acrobático",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "label": "Alado",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "label": "Ancorada*",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 10,
+      "max": 11,
+      "label": "Animado**",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "label": "Anulador***",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "label": "Arbóreo",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 14,
+      "max": 15,
+      "label": "Assustador",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "label": "Astuto",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "label": "Cáustica",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 18,
+      "max": 27,
+      "label": "Defensor",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "label": "Densa*",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "label": "Égide",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "label": "Enraizada*",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "label": "Escorregadio",
+      "book": "Tormenta20",
+      "page": 338
+    },
+    {
+      "min": 32,
+      "max": 33,
+      "label": "Esmagador**",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "label": "Esmérico",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 35,
+      "max": 36,
+      "label": "Estígio***",
+      "book": "Heróis de Arton",
+      "page": 258
+    },
+    {
+      "min": 37,
+      "max": 37,
+      "label": "Etéreo",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 38,
+      "max": 39,
+      "label": "Fantasmagórico",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 40,
+      "max": 43,
+      "label": "Fortificado",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "label": "Gélido",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "label": "Geomântico",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 46,
+      "max": 55,
+      "label": "Guardião***",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 56,
+      "max": 57,
+      "label": "Hipnótico",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "label": "Ilusório",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "label": "Incandescente",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 60,
+      "max": 64,
+      "label": "Invulnerável",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "label": "Ligeira*",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 66,
+      "max": 67,
+      "label": "Luminescente",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 68,
+      "max": 72,
+      "label": "Opaco",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "label": "Prístino",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 74,
+      "max": 78,
+      "label": "Protetor",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 79,
+      "max": 79,
+      "label": "Purificador",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 80,
+      "max": 81,
+      "label": "Reanimador",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 82,
+      "max": 83,
+      "label": "Refletor",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "label": "Relampejante",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "label": "Reluzente",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "label": "Replicante",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "label": "Resiliente",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "label": "Sombrio",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "label": "Vórtice",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "label": "Zeloso",
+      "book": "Tormenta20",
+      "page": 339
+    },
+    {
+      "min": 91,
+      "max": 100,
+      "label": "Item específico",
+      "book": "Role na tabela abaixo"
+    },
+    {
+      "min": 1,
+      "max": 4,
+      "label": "Armadura da luz",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 5,
+      "max": 8,
+      "label": "Armadura das sombras profundas",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 9,
+      "max": 12,
+      "label": "Armadura do dragão ancião",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 13,
+      "max": 16,
+      "label": "Armadura do inverno perene",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 17,
+      "max": 18,
+      "label": "Armadura do julgamento",
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 19,
+      "max": 22,
+      "label": "Baluarte anão",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 23,
+      "max": 26,
+      "label": "Carapaça demoníaca",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 27,
+      "max": 30,
+      "label": "Cota da serpente marinha",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 31,
+      "max": 40,
+      "label": "Cota élfica",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 41,
+      "max": 44,
+      "label": "Couraça do comando",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 45,
+      "max": 48,
+      "label": "Couraça do guardião celeste",
+      "book": "Heróis de Arton",
+      "page": 259
+    },
+    {
+      "min": 49,
+      "max": 52,
+      "label": "Couro de monstro",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 53,
+      "max": 56,
+      "label": "Escudo da ira vulcânica",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 57,
+      "max": 60,
+      "label": "Escudo da luz estelar",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 61,
+      "max": 64,
+      "label": "Escudo da natureza viva",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 65,
+      "max": 68,
+      "label": "Escudo de Azgher",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 69,
+      "max": 72,
+      "label": "Escudo do conjurador",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 73,
+      "max": 76,
+      "label": "Escudo do eclipse",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 77,
+      "max": 80,
+      "label": "Escudo do grifo",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 81,
+      "max": 86,
+      "label": "Escudo do leão",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 87,
+      "max": 90,
+      "label": "Escudo do trovão",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 91,
+      "max": 94,
+      "label": "Escudo espinhoso",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 95,
+      "max": 98,
+      "label": "Loriga do centurião",
+      "book": "Tormenta20",
+      "page": 340
+    },
+    {
+      "min": 99,
+      "max": 100,
+      "label": "Manto da noite",
+      "book": "Tormenta20",
+      "page": 340
+    }
+  ],
+  "esoteric": [
+    {
+      "min": 1,
+      "max": 2,
+      "label": "Abafador",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 3,
+      "max": 12,
+      "label": "Bélico",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 13,
+      "max": 16,
+      "label": "Caridoso",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 17,
+      "max": 20,
+      "label": "Chocante",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 21,
+      "max": 30,
+      "label": "Clemente",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 31,
+      "max": 32,
+      "label": "Contido",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 33,
+      "max": 34,
+      "label": "Embusteiro",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 35,
+      "max": 36,
+      "label": "Emergencial",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 37,
+      "max": 40,
+      "label": "Encadeado",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 41,
+      "max": 42,
+      "label": "Escultor",
+      "book": "Heróis de Arton",
+      "page": 260
+    },
+    {
+      "min": 43,
+      "max": 44,
+      "label": "Frugal",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 45,
+      "max": 48,
+      "label": "Glacial",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 49,
+      "max": 50,
+      "label": "Imperioso",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 51,
+      "max": 52,
+      "label": "Implacável*",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 53,
+      "max": 54,
+      "label": "Incriminador",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 55,
+      "max": 61,
+      "label": "Inflamável",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 62,
+      "max": 65,
+      "label": "Inquisidor",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 66,
+      "max": 69,
+      "label": "Insistente",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 70,
+      "max": 71,
+      "label": "Khalmyrita",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 72,
+      "max": 81,
+      "label": "Majestoso*",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 82,
+      "max": 83,
+      "label": "Nímbico",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "label": "Pulverizante*",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "label": "Retaliador",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 86,
+      "max": 87,
+      "label": "Sanguessuga",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "label": "Traiçoeiro",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 89,
+      "max": 90,
+      "label": "Verdugo",
+      "book": "Heróis de Arton",
+      "page": 261
+    },
+    {
+      "min": 91,
+      "max": 100,
+      "label": "Esotérico específico",
+      "book": "Role na tabela abaixo"
+    },
+    {
+      "min": 1,
+      "max": 20,
+      "label": "Cajado da destruição",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 21,
+      "max": 40,
+      "label": "Cajado da vida",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "label": "Cajado das marés",
+      "book": "Heróis de Arton",
+      "page": 262
+    },
+    {
+      "min": 46,
+      "max": 60,
+      "label": "Cajado do poder",
+      "book": "Tormenta20",
+      "page": 337
+    },
+    {
+      "min": 61,
+      "max": 75,
+      "label": "Cálice sagrado",
+      "book": "Heróis de Arton",
+      "page": 262
+    },
+    {
+      "min": 76,
+      "max": 85,
+      "label": "Relógio do arcanista",
+      "book": "Heróis de Arton",
+      "page": 262
+    },
+    {
+      "min": 86,
+      "max": 95,
+      "label": "Varinha da generosidade",
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 96,
+      "max": 100,
+      "label": "Varinha milenar",
+      "book": "Heróis de Arton",
+      "page": 262
+    }
+  ]
+}

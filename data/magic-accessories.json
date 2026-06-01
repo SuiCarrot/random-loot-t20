@@ -1,0 +1,1168 @@
+{
+  "minor": [
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Algibeira mordedora",
+      "price": 1,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "label": "Elixir da mente dividida",
+      "price": 1,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "label": "Papiro das estrelas",
+      "price": 1,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "label": "Anel do sustento",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 5,
+      "max": 7,
+      "label": "Bainha mágica",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 8,
+      "max": 9,
+      "label": "Corda da escalada",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "label": "Ferraduras da velocidade",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 11,
+      "max": 12,
+      "label": "Garrafa da fumaça eterna",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 13,
+      "max": 15,
+      "label": "Gema da luminosidade",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 16,
+      "max": 18,
+      "label": "Manto élfico",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 19,
+      "max": 21,
+      "label": "Mochila de carga",
+      "price": 3,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 22,
+      "max": 23,
+      "label": "Amuleto da visão etérea",
+      "price": 3,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 24,
+      "max": 25,
+      "label": "Cinturão do trobo",
+      "price": 3,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 26,
+      "max": 27,
+      "label": "Elixir da eternidade",
+      "price": 3,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 28,
+      "max": 29,
+      "label": "Pérola da nulificação",
+      "price": 3,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 30,
+      "max": 31,
+      "label": "Saco dos ventos silenciosos",
+      "price": 3,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 32,
+      "max": 36,
+      "label": "Brincos da sagacidade",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 37,
+      "max": 41,
+      "label": "Luvas da delicadeza",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 42,
+      "max": 46,
+      "label": "Manoplas da força do ogro",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 47,
+      "max": 50,
+      "label": "Manto da resistência",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "label": "Manto do fascínio",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "label": "Pingente da sensatez",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "label": "Torque do vigor",
+      "price": 4,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "label": "Monóculo da franqueza",
+      "price": 4,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 67,
+      "max": 68,
+      "label": "Chapéu do disfarce",
+      "price": 6,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 69,
+      "max": 69,
+      "label": "Flauta fantasma",
+      "price": 6,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 70,
+      "max": 71,
+      "label": "Lanterna da revelação",
+      "price": 6,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 72,
+      "max": 73,
+      "label": "Algibeira provedora",
+      "price": 6,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 74,
+      "max": 75,
+      "label": "Gaiola dos arcanos",
+      "price": 6,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 76,
+      "max": 77,
+      "label": "Lâmpada da ilusão impecável",
+      "price": 6,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 78,
+      "max": 79,
+      "label": "Pena da criação",
+      "price": 6,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 80,
+      "max": 81,
+      "label": "Corda da resignação",
+      "price": 7,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 82,
+      "max": 86,
+      "label": "Anel da proteção",
+      "price": 9,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "label": "Anel do escudo mental",
+      "price": 9,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "label": "Pingente da saúde",
+      "price": 9,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "label": "Coroa de flores",
+      "price": 9,
+      "book": "Deuses de Arton",
+      "page": 55
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "label": "Jarro das profundezas",
+      "price": 9,
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 91,
+      "max": 91,
+      "label": "Escrivaninha consagrada",
+      "price": 9,
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 92,
+      "max": 92,
+      "label": "Anel da proteção mental",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "label": "Berço das fadas",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "label": "Chapéu dos truques infinitos",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "label": "Cinto da leveza graciosa",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "label": "Cristal da voz silenciosa",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "label": "Cristal do tempo célere",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "label": "Ocarina da melodia distante",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "label": "Olhos do corvo",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Pergaminho da verdade cósmica",
+      "price": 9,
+      "book": "Heróis de Arton",
+      "page": 267
+    }
+  ],
+  "medium": [
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Anel de telecinesia",
+      "price": 10,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "label": "Bola de cristal",
+      "price": 10,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "label": "Caveira maldita",
+      "price": 10,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "label": "Instrumento da alegria",
+      "price": 10,
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Ampulheta da harmonia temporal",
+      "price": 10,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "label": "Amuleto do amparo",
+      "price": 10,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "label": "Caixa dos ecos perdidos",
+      "price": 10,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "label": "Colar da perseverança",
+      "price": 10,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "label": "Colar do tirano",
+      "price": 10,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "label": "Óculos da revelação",
+      "price": 10,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "label": "Colar das bolas de fogo",
+      "price": 12,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "label": "Sandálias de Valkaria",
+      "price": 12,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "label": "Véu diáfano",
+      "price": 13,
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "label": "Botas aladas",
+      "price": 15,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "label": "Botas inquietas",
+      "price": 15,
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "label": "Pira póstera",
+      "price": 15,
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "label": "Anel do pacto oneroso",
+      "price": 15,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "label": "Botas do andarilho das sombras",
+      "price": 15,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "label": "Cálice das marés",
+      "price": 15,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "label": "Cinto dos caminhos cruzados",
+      "price": 15,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 21,
+      "max": 21,
+      "label": "Pedra da passagem",
+      "price": 15,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 22,
+      "max": 22,
+      "label": "Pingente da dor partilhada",
+      "price": 15,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 23,
+      "max": 26,
+      "label": "Braceletes de bronze",
+      "price": 16,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "label": "Capa nebulosa",
+      "price": 16,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "label": "Espelho do outro lado",
+      "price": 18,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 29,
+      "max": 30,
+      "label": "Gema da purificação",
+      "price": 18,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 31,
+      "max": 32,
+      "label": "Máscara da raposa",
+      "price": 18,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 33,
+      "max": 36,
+      "label": "Anel da energia",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 37,
+      "max": 40,
+      "label": "Anel da vitalidade",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 41,
+      "max": 42,
+      "label": "Anel de invisibilidade",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 43,
+      "max": 44,
+      "label": "Braçadeiras do arqueiro",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 45,
+      "max": 46,
+      "label": "Brincos de Marah",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 47,
+      "max": 48,
+      "label": "Faixas do pugilista",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 49,
+      "max": 50,
+      "label": "Manto da aranha",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 51,
+      "max": 52,
+      "label": "Vassoura voadora",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 53,
+      "max": 54,
+      "label": "Símbolo abençoado",
+      "price": 21,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "label": "Colar de presas",
+      "price": 21,
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 56,
+      "max": 56,
+      "label": "Vestido noturno",
+      "price": 21,
+      "book": "Deuses de Arton",
+      "page": 58
+    },
+    {
+      "min": 57,
+      "max": 57,
+      "label": "Anel da beleza ilusória",
+      "price": 21,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "label": "Bastão do sonhador",
+      "price": 21,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "label": "Colar da fúria monstruosa",
+      "price": 21,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "label": "Coroa da floresta sussurrante",
+      "price": 21,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "label": "Espelho da verdade",
+      "price": 21,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "label": "Instrumentos da celeridade",
+      "price": 22,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 63,
+      "max": 63,
+      "label": "Máscara do predador",
+      "price": 22,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 64,
+      "max": 65,
+      "label": "Frigideira do chef anão",
+      "price": 24,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "label": "Gema da santificação",
+      "price": 24,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 67,
+      "max": 67,
+      "label": "Cubo armadilha",
+      "price": 25,
+      "book": "Deuses de Arton",
+      "page": 56
+    },
+    {
+      "min": 68,
+      "max": 68,
+      "label": "Caldeirão da vida",
+      "price": 25,
+      "book": "Deuses de Arton",
+      "page": 57
+    },
+    {
+      "min": 69,
+      "max": 72,
+      "label": "Amuleto da robustez",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 73,
+      "max": 74,
+      "label": "Botas velozes",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 75,
+      "max": 78,
+      "label": "Cinto da força do gigante",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 79,
+      "max": 82,
+      "label": "Coroa majestosa",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 83,
+      "max": 86,
+      "label": "Estola da serenidade",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "label": "Manto do morcego",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 88,
+      "max": 91,
+      "label": "Pulseiras da celeridade",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 92,
+      "max": 95,
+      "label": "Tiara da sapiência",
+      "price": 25,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 96,
+      "max": 97,
+      "label": "Argolas místicas",
+      "price": 25,
+      "book": "Deuses de Arton",
+      "page": 59
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "label": "Bastão da grande harmonia",
+      "price": 25,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "label": "Coroa da majestade distorcida",
+      "price": 25,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Bracelete do coração vivaz",
+      "price": 27,
+      "book": "Heróis de Arton",
+      "page": 264
+    }
+  ],
+  "major": [
+    {
+      "min": 1,
+      "max": 2,
+      "label": "Elmo do teletransporte",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "label": "Gema da telepatia",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 5,
+      "max": 6,
+      "label": "Gema elemental",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 7,
+      "max": 11,
+      "label": "Manual da saúde corporal",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 12,
+      "max": 16,
+      "label": "Manual do bom exercício",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 17,
+      "max": 21,
+      "label": "Manual dos movimentos precisos",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 22,
+      "max": 26,
+      "label": "Medalhão de Lena",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 27,
+      "max": 31,
+      "label": "Tomo da compreensão",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 32,
+      "max": 36,
+      "label": "Tomo da liderança e influência",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 37,
+      "max": 41,
+      "label": "Tomo dos grandes pensamentos",
+      "price": 30,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 42,
+      "max": 44,
+      "label": "Anel da chama dançante",
+      "price": 30,
+      "book": "Heróis de Arton",
+      "page": 263
+    },
+    {
+      "min": 45,
+      "max": 46,
+      "label": "Chapéu pensador",
+      "price": 30,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 47,
+      "max": 48,
+      "label": "Cinto da flecha veloz",
+      "price": 30,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 49,
+      "max": 50,
+      "label": "Gema da profanação",
+      "price": 30,
+      "book": "Heróis de Arton",
+      "page": 266
+    },
+    {
+      "min": 51,
+      "max": 53,
+      "label": "Tomo da técnica definitiva",
+      "price": 30,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 54,
+      "max": 55,
+      "label": "Tapeçaria da guerra",
+      "price": 35,
+      "book": "Deuses de Arton",
+      "page": 55
+    },
+    {
+      "min": 56,
+      "max": 57,
+      "label": "Braceletes da amizade intensa",
+      "price": 36,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "label": "Cilício vivo",
+      "price": 37,
+      "book": "Deuses de Arton",
+      "page": 55
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "label": "Coração corrompido",
+      "price": 45,
+      "book": "Deuses de Arton",
+      "page": 55
+    },
+    {
+      "min": 60,
+      "max": 61,
+      "label": "Coração do inverno",
+      "price": 45,
+      "book": "Heróis de Arton",
+      "page": 265
+    },
+    {
+      "min": 62,
+      "max": 63,
+      "label": "Tomo dos companheiros",
+      "price": 45,
+      "book": "Heróis de Arton",
+      "page": 267
+    },
+    {
+      "min": 64,
+      "max": 65,
+      "label": "Anel refletor",
+      "price": 51,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 66,
+      "max": 67,
+      "label": "Cinto do campeão",
+      "price": 51,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 68,
+      "max": 71,
+      "label": "Colar guardião",
+      "price": 51,
+      "book": "Tormenta20",
+      "page": 343
+    },
+    {
+      "min": 72,
+      "max": 73,
+      "label": "Estatueta animista",
+      "price": 51,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 74,
+      "max": 75,
+      "label": "Anel da liberdade",
+      "price": 60,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 76,
+      "max": 77,
+      "label": "Tapete voador",
+      "price": 60,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 78,
+      "max": 79,
+      "label": "Chave dos planos",
+      "price": 60,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 80,
+      "max": 81,
+      "label": "Cinto da desmaterialização",
+      "price": 60,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 82,
+      "max": 85,
+      "label": "Braceletes de ouro",
+      "price": 64,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 86,
+      "max": 87,
+      "label": "Espelho da oposição",
+      "price": 75,
+      "book": "Tormenta20",
+      "page": 344
+    },
+    {
+      "min": 88,
+      "max": 91,
+      "label": "Robe do arquimago",
+      "price": 90,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 92,
+      "max": 93,
+      "label": "Ossos dracônicos",
+      "price": 90,
+      "book": "Deuses de Arton",
+      "page": 56
+    },
+    {
+      "min": 94,
+      "max": 95,
+      "label": "Orbe das tempestades",
+      "price": 97,
+      "book": "Tormenta20",
+      "page": 345
+    },
+    {
+      "min": 96,
+      "max": 97,
+      "label": "Braçadeiras da força do colosso",
+      "price": 120,
+      "book": "Heróis de Arton",
+      "page": 264
+    },
+    {
+      "min": 98,
+      "max": 99,
+      "label": "Anel da regeneração",
+      "price": 150,
+      "book": "Tormenta20",
+      "page": 342
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Espelho do aprisionamento",
+      "price": 150,
+      "book": "Tormenta20",
+      "page": 344
+    }
+  ]
+}

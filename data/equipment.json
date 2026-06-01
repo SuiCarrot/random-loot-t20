@@ -1,0 +1,1093 @@
+{
+  "weapons": [
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Açoite finntroll",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "label": "Adaga",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "label": "Adaga oposta",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "label": "Agulha de Ahlen",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Alabarda",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "label": "Alfange",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "label": "Arcabuz",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "label": "Arco curto",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "label": "Arco de guerra",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "label": "Arco longo",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "label": "Arco montado",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "label": "Arpão",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "label": "Azagaia",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "label": "Bacamarte",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "label": "Balas (20)",
+      "book": "Tormenta20",
+      "page": 151
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "label": "Balestra",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "label": "Bastão lúdico",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "label": "Besta de mão",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "label": "Besta de repetição",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "label": "Besta dupla",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 21,
+      "max": 21,
+      "label": "Besta leve",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 22,
+      "max": 22,
+      "label": "Besta pesada",
+      "book": "Tormenta20",
+      "page": 146
+    },
+    {
+      "min": 23,
+      "max": 23,
+      "label": "Bico de corvo",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 24,
+      "max": 24,
+      "label": "Boleadeira",
+      "book": "Heróis de Arton",
+      "page": 216
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "label": "Bordão",
+      "book": "Tormenta20",
+      "page": 147
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "label": "Canhão portátil",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "label": "Chakram",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "label": "Chicote",
+      "book": "Tormenta20",
+      "page": 147
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "label": "Cimitarra",
+      "book": "Tormenta20",
+      "page": 147
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "label": "Cinquedea",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "label": "Clava",
+      "book": "Tormenta20",
+      "page": 147
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "label": "Clava-grão",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "label": "Corrente de espinhos",
+      "book": "Tormenta20",
+      "page": 147
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "label": "Desmontador",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "label": "Dirk",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "label": "Espada bastarda",
+      "book": "Tormenta20",
+      "page": 147
+    },
+    {
+      "min": 37,
+      "max": 37,
+      "label": "Espada canora",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 38,
+      "max": 38,
+      "label": "Espada curta",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 39,
+      "max": 39,
+      "label": "Espada de execução",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "label": "Espada larga",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 41,
+      "max": 41,
+      "label": "Espada longa",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 42,
+      "max": 42,
+      "label": "Espada vespa",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 43,
+      "max": 43,
+      "label": "Espada-gadanho",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "label": "Espadim",
+      "book": "Heróis de Arton",
+      "page": 217
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "label": "Flechas (20)",
+      "book": "Tormenta20",
+      "page": 151
+    },
+    {
+      "min": 46,
+      "max": 46,
+      "label": "Flechas de caça (20)",
+      "book": "Heróis de Arton",
+      "page": 223
+    },
+    {
+      "min": 47,
+      "max": 47,
+      "label": "Florete",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 48,
+      "max": 48,
+      "label": "Foice",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 49,
+      "max": 49,
+      "label": "Funda",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 50,
+      "max": 50,
+      "label": "Gadanho",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "label": "Garrucha",
+      "book": "Heróis de Arton",
+      "page": 219
+    },
+    {
+      "min": 52,
+      "max": 52,
+      "label": "Gládio",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 53,
+      "max": 53,
+      "label": "Katana",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 54,
+      "max": 54,
+      "label": "Khopesh",
+      "book": "Heróis de Arton",
+      "page": 219
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "label": "Kimbata",
+      "book": "Heróis de Arton",
+      "page": 219
+    },
+    {
+      "min": 56,
+      "max": 56,
+      "label": "Lança",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 57,
+      "max": 57,
+      "label": "Lança de falange",
+      "book": "Heróis de Arton",
+      "page": 220
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "label": "Lança de fogo",
+      "book": "Ameaças de Arton",
+      "page": 392
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "label": "Lança de justa",
+      "book": "Heróis de Arton",
+      "page": 220
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "label": "Lança montada",
+      "book": "Tormenta20",
+      "page": 148
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "label": "Maça",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "label": "Maça-estrela",
+      "book": "Heróis de Arton",
+      "page": 220
+    },
+    {
+      "min": 63,
+      "max": 63,
+      "label": "Machadinha",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 64,
+      "max": 64,
+      "label": "Machado anão",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "label": "Machado de batalha",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "label": "Machado de guerra",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 67,
+      "max": 67,
+      "label": "Machado de haste",
+      "book": "Heróis de Arton",
+      "page": 220
+    },
+    {
+      "min": 68,
+      "max": 68,
+      "label": "Machado táurico",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 69,
+      "max": 69,
+      "label": "Malho",
+      "book": "Heróis de Arton",
+      "page": 220
+    },
+    {
+      "min": 70,
+      "max": 70,
+      "label": "Mangual",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 71,
+      "max": 71,
+      "label": "Marrão",
+      "book": "Heróis de Arton",
+      "page": 221
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "label": "Marreta",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "label": "Martelo de guerra",
+      "book": "Tormenta20",
+      "page": 149
+    },
+    {
+      "min": 74,
+      "max": 74,
+      "label": "Martelo leve",
+      "book": "Heróis de Arton",
+      "page": 221
+    },
+    {
+      "min": 75,
+      "max": 75,
+      "label": "Martelo longo",
+      "book": "Heróis de Arton",
+      "page": 221
+    },
+    {
+      "min": 76,
+      "max": 76,
+      "label": "Montante",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 77,
+      "max": 77,
+      "label": "Montante cinético",
+      "book": "Heróis de Arton",
+      "page": 221
+    },
+    {
+      "min": 78,
+      "max": 78,
+      "label": "Mordida do diabo",
+      "book": "Ameaças de Arton",
+      "page": 393
+    },
+    {
+      "min": 79,
+      "max": 79,
+      "label": "Mosquete",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 80,
+      "max": 80,
+      "label": "Neko-te",
+      "book": "Ameaças de Arton",
+      "page": 393
+    },
+    {
+      "min": 81,
+      "max": 81,
+      "label": "Pedras (20)",
+      "book": "Tormenta20",
+      "page": 151
+    },
+    {
+      "min": 82,
+      "max": 82,
+      "label": "Picareta",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 83,
+      "max": 83,
+      "label": "Pique",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "label": "Pistola",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "label": "Pistola-punhal",
+      "book": "Ameaças de Arton",
+      "page": 393
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "label": "Porrete",
+      "book": "Ameaças de Arton",
+      "page": 393
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "label": "Presa de serpente",
+      "book": "Ameaças de Arton",
+      "page": 393
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "label": "Rapieira",
+      "book": "Heróis de Arton",
+      "page": 221
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "label": "Rede",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "label": "Serrilheira",
+      "book": "Heróis de Arton",
+      "page": 221
+    },
+    {
+      "min": 91,
+      "max": 91,
+      "label": "Shuriken",
+      "book": "Ameaças de Arton",
+      "page": 394
+    },
+    {
+      "min": 92,
+      "max": 92,
+      "label": "Sifão cáustico",
+      "book": "Heróis de Arton",
+      "page": 222
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "label": "Tacape",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "label": "Tai-tai",
+      "book": "Heróis de Arton",
+      "page": 222
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "label": "Tan-korak",
+      "book": "Heróis de Arton",
+      "page": 222
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "label": "Tetsubo",
+      "book": "Ameaças de Arton",
+      "page": 394
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "label": "Traque",
+      "book": "Ameaças de Arton",
+      "page": 394
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "label": "Tridente",
+      "book": "Tormenta20",
+      "page": 150
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "label": "Virotes (20)",
+      "book": "Tormenta20",
+      "page": 151
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Zarabatana",
+      "book": "Ameaças de Arton",
+      "page": 394
+    }
+  ],
+  "armor": [
+    {
+      "min": 1,
+      "max": 2,
+      "label": "Armadura de chumbo",
+      "book": "Heróis de Arton",
+      "page": 223
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "label": "Armadura de engenhoqueiro goblin",
+      "book": "Heróis de Arton",
+      "page": 223
+    },
+    {
+      "min": 5,
+      "max": 6,
+      "label": "Armadura de folhas",
+      "book": "Heróis de Arton",
+      "page": 223
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "label": "Armadura de hussardo alado",
+      "book": "Heróis de Arton",
+      "page": 223
+    },
+    {
+      "min": 9,
+      "max": 10,
+      "label": "Armadura de justa",
+      "book": "Heróis de Arton",
+      "page": 223
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "label": "Armadura de ossos",
+      "book": "Ameaças de Arton",
+      "page": 395
+    },
+    {
+      "min": 12,
+      "max": 13,
+      "label": "Armadura de pedra",
+      "book": "Heróis de Arton",
+      "page": 224
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "label": "Armadura de quitina",
+      "book": "Ameaças de Arton",
+      "page": 395
+    },
+    {
+      "min": 15,
+      "max": 16,
+      "label": "Armadura sensual",
+      "book": "Heróis de Arton",
+      "page": 224
+    },
+    {
+      "min": 17,
+      "max": 20,
+      "label": "Brigantina",
+      "book": "Heróis de Arton",
+      "page": 224
+    },
+    {
+      "min": 21,
+      "max": 22,
+      "label": "Broquel",
+      "book": "Heróis de Arton",
+      "page": 224
+    },
+    {
+      "min": 23,
+      "max": 26,
+      "label": "Brunea",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 27,
+      "max": 28,
+      "label": "Colete fora da lei",
+      "book": "Heróis de Arton",
+      "page": 226
+    },
+    {
+      "min": 29,
+      "max": 38,
+      "label": "Completa",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 39,
+      "max": 42,
+      "label": "Cota de malha",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 43,
+      "max": 44,
+      "label": "Cota de moedas",
+      "book": "Heróis de Arton",
+      "page": 226
+    },
+    {
+      "min": 45,
+      "max": 54,
+      "label": "Couraça",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 55,
+      "max": 58,
+      "label": "Couro",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 59,
+      "max": 64,
+      "label": "Couro batido",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "label": "Escudo de couro",
+      "book": "Ameaças de Arton",
+      "page": 395
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "label": "Escudo de vime",
+      "book": "Heróis de Arton",
+      "page": 226
+    },
+    {
+      "min": 67,
+      "max": 74,
+      "label": "Escudo leve",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 75,
+      "max": 82,
+      "label": "Escudo pesado",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 83,
+      "max": 84,
+      "label": "Escudo torre",
+      "book": "Heróis de Arton",
+      "page": 226
+    },
+    {
+      "min": 85,
+      "max": 88,
+      "label": "Gibão de peles",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 89,
+      "max": 92,
+      "label": "Loriga segmentada",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 93,
+      "max": 98,
+      "label": "Meia armadura",
+      "book": "Tormenta20",
+      "page": 154
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "label": "Sagna",
+      "book": "Heróis de Arton",
+      "page": 226
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Veste de teia de aranha",
+      "book": "Ameaças de Arton",
+      "page": 395
+    }
+  ],
+  "esoteric": [
+    {
+      "min": 1,
+      "max": 3,
+      "label": "Afiador solar",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 4,
+      "max": 6,
+      "label": "Ankh solar",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 7,
+      "max": 10,
+      "label": "Báculo da retribuição",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 11,
+      "max": 14,
+      "label": "Bolsa de pó",
+      "book": "Tormenta20",
+      "page": 159
+    },
+    {
+      "min": 15,
+      "max": 18,
+      "label": "Cajado arcano",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 19,
+      "max": 22,
+      "label": "Cetro elemental",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 23,
+      "max": 26,
+      "label": "Compasso mistico",
+      "book": "Heróis de Arton",
+      "page": 234
+    },
+    {
+      "min": 27,
+      "max": 30,
+      "label": "Contas de oração",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 31,
+      "max": 34,
+      "label": "Costela de lich",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 35,
+      "max": 38,
+      "label": "Dedo de ente",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 39,
+      "max": 42,
+      "label": "Estola",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 43,
+      "max": 46,
+      "label": "Flauta convocadora",
+      "book": "Heróis de Arton",
+      "page": 234
+    },
+    {
+      "min": 47,
+      "max": 50,
+      "label": "Frasco purificador",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 51,
+      "max": 54,
+      "label": "Luva de ferro",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 55,
+      "max": 58,
+      "label": "Mandala onírica",
+      "book": "Heróis de Arton",
+      "page": 234
+    },
+    {
+      "min": 59,
+      "max": 62,
+      "label": "Medalhão afiado",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 63,
+      "max": 66,
+      "label": "Medalhão de prata",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 67,
+      "max": 70,
+      "label": "Orbe cristalino",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 71,
+      "max": 74,
+      "label": "Ostensório santificado",
+      "book": "Deuses de Arton",
+      "page": 51
+    },
+    {
+      "min": 75,
+      "max": 78,
+      "label": "Rede de almas",
+      "book": "Deuses de Arton",
+      "page": 52
+    },
+    {
+      "min": 79,
+      "max": 81,
+      "label": "Tomo de guerra",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 82,
+      "max": 84,
+      "label": "Tomo do rancor",
+      "book": "Ameaças de Arton",
+      "page": 396
+    },
+    {
+      "min": 85,
+      "max": 88,
+      "label": "Tomo hermético",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 89,
+      "max": 92,
+      "label": "Turíbulo ungido",
+      "book": "Deuses de Arton",
+      "page": 52
+    },
+    {
+      "min": 93,
+      "max": 96,
+      "label": "Varinha arcana",
+      "book": "Tormenta20",
+      "page": 160
+    },
+    {
+      "min": 97,
+      "max": 100,
+      "label": "Varinha armamentista",
+      "book": "Heróis de Arton",
+      "page": 234
+    }
+  ]
+}

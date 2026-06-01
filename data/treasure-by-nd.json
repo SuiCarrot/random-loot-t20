@@ -1,0 +1,1628 @@
+{
+  "rows": [
+    {
+      "nd": 1,
+      "money": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 70,
+          "outcome": {
+            "kind": "coins",
+            "formula": "3d8x10 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 71,
+          "max": 95,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d12x10 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 1
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 40,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 41,
+          "max": 65,
+          "outcome": {
+            "kind": "table",
+            "table": "misc-items",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 66,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "equipment",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1
+          }
+        }
+      ]
+    },
+    {
+      "nd": 2,
+      "money": [
+        {
+          "min": 1,
+          "max": 15,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 16,
+          "max": 55,
+          "outcome": {
+            "kind": "coins",
+            "formula": "3d10x10 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 56,
+          "max": 85,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d4x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 86,
+          "max": 95,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d6+1x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 1
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 30,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "outcome": {
+            "kind": "table",
+            "table": "misc-items",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 41,
+          "max": 70,
+          "outcome": {
+            "kind": "table",
+            "table": "equipment",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 71,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 1
+          }
+        }
+      ]
+    },
+    {
+      "nd": 3,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d12x10 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 21,
+          "max": 60,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d4x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 61,
+          "max": 90,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d8x10 TO",
+            "currency": "TO"
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 0,
+            "countFormula": "1d3"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 25,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 26,
+          "max": 35,
+          "outcome": {
+            "kind": "table",
+            "table": "misc-items",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 36,
+          "max": 60,
+          "outcome": {
+            "kind": "table",
+            "table": "equipment",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 61,
+          "max": 85,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 86,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 1
+          }
+        }
+      ]
+    },
+    {
+      "nd": 4,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 50,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d6x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 51,
+          "max": 80,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d12x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 0,
+            "countFormula": "1d3",
+            "bonusPercent": true
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "outcome": {
+            "kind": "table",
+            "table": "misc-items",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 31,
+          "max": 55,
+          "outcome": {
+            "kind": "table",
+            "table": "equipment",
+            "rolls": 2
+          }
+        },
+        {
+          "min": 56,
+          "max": 80,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 2,
+            "improvements": 1
+          }
+        }
+      ]
+    },
+    {
+      "nd": 5,
+      "money": [
+        {
+          "min": 1,
+          "max": 15,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 16,
+          "max": 65,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d8x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 66,
+          "max": 95,
+          "outcome": {
+            "kind": "coins",
+            "formula": "3d4x10 TO",
+            "currency": "TO"
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 1
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 70,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1
+          }
+        },
+        {
+          "min": 71,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 1
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 2
+          }
+        }
+      ]
+    },
+    {
+      "nd": 6,
+      "money": [
+        {
+          "min": 1,
+          "max": 15,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 16,
+          "max": 60,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d6x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 61,
+          "max": 90,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d10x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 0,
+            "countFormula": "1d3+1"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 65,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 66,
+          "max": 95,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 1
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 2,
+            "improvements": 2
+          }
+        }
+      ]
+    },
+    {
+      "nd": 7,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 60,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d8x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 61,
+          "max": 90,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d12x10 TO",
+            "currency": "TO"
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 0,
+            "countFormula": "1d4+1"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 60,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d3"
+          }
+        },
+        {
+          "min": 61,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 2
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 3
+          }
+        }
+      ]
+    },
+    {
+      "nd": 8,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 55,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d10x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 56,
+          "max": 95,
+          "outcome": {
+            "kind": "riches",
+            "tier": "minor",
+            "count": 0,
+            "countFormula": "1d4+1"
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 1,
+            "bonusPercent": true
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 75,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d3"
+          }
+        },
+        {
+          "min": 76,
+          "max": 95,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 2
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 2,
+            "improvements": 3
+          }
+        }
+      ]
+    },
+    {
+      "nd": 9,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 35,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 1
+          }
+        },
+        {
+          "min": 36,
+          "max": 85,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d6x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 86,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d3"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 70,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rolls": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 71,
+          "max": 95,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 3
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "minor"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 10,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 30,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d6x100 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 31,
+          "max": 85,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d10x10 TO",
+            "currency": "TO"
+          }
+        },
+        {
+          "min": 86,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d3+1"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 50,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 51,
+          "max": 75,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d3+1"
+          }
+        },
+        {
+          "min": 76,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 3
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "minor"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 11,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 45,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d4x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 46,
+          "max": 85,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d3"
+          }
+        },
+        {
+          "min": 86,
+          "max": 100,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d6x100 TO",
+            "currency": "TO"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 45,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 46,
+          "max": 70,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d4+1"
+          }
+        },
+        {
+          "min": 71,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 3
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "minor"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 12,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 45,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 46,
+          "max": 80,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d6x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d4+1"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 45,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 46,
+          "max": 70,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d3+1",
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 71,
+          "max": 85,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 4
+          }
+        },
+        {
+          "min": 86,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "minor"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 13,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 45,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d4x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 46,
+          "max": 80,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d3+1"
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d6x100 TO",
+            "currency": "TO"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 40,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 41,
+          "max": 65,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d4+1",
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 66,
+          "max": 95,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 4
+          }
+        },
+        {
+          "min": 96,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "medium"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 14,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 45,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d3+1"
+          }
+        },
+        {
+          "min": 46,
+          "max": 80,
+          "outcome": {
+            "kind": "coins",
+            "formula": "3d6x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 1
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 40,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 41,
+          "max": 65,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d4+1",
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 66,
+          "max": 90,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 1,
+            "improvements": 4
+          }
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "medium"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 15,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 45,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 46,
+          "max": 80,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d10x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d4x1.000 TO",
+            "currency": "TO"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 35,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 36,
+          "max": 45,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d6+1"
+          }
+        },
+        {
+          "min": 46,
+          "max": 85,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 2,
+            "improvements": 4
+          }
+        },
+        {
+          "min": 86,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "medium"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 16,
+      "money": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 40,
+          "outcome": {
+            "kind": "coins",
+            "formula": "3d6x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 41,
+          "max": 75,
+          "outcome": {
+            "kind": "coins",
+            "formula": "3d10x100 TO",
+            "currency": "TO"
+          }
+        },
+        {
+          "min": 76,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 0,
+            "countFormula": "1d3"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 35,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 36,
+          "max": 45,
+          "outcome": {
+            "kind": "table",
+            "table": "potions",
+            "rollCountFormula": "1d6+1",
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 46,
+          "max": 80,
+          "outcome": {
+            "kind": "table",
+            "table": "superiors",
+            "rolls": 2,
+            "improvements": 4
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "medium"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 17,
+      "money": [
+        {
+          "min": 1,
+          "max": 5,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 6,
+          "max": 40,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d6x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 41,
+          "max": 75,
+          "outcome": {
+            "kind": "riches",
+            "tier": "medium",
+            "count": 0,
+            "countFormula": "1d3",
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 76,
+          "max": 100,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d4x1.000 TO",
+            "currency": "TO"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 20,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 21,
+          "max": 40,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "minor"
+          }
+        },
+        {
+          "min": 41,
+          "max": 80,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "medium"
+          }
+        },
+        {
+          "min": 81,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "major"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 18,
+      "money": [
+        {
+          "min": 1,
+          "max": 5,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 6,
+          "max": 40,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d10x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 41,
+          "max": 75,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 1
+          }
+        },
+        {
+          "min": 76,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 0,
+            "countFormula": "1d3+1"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 15,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 16,
+          "max": 40,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "minor"
+          }
+        },
+        {
+          "min": 41,
+          "max": 70,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "medium"
+          }
+        },
+        {
+          "min": 71,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "major"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 19,
+      "money": [
+        {
+          "min": 1,
+          "max": 5,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 6,
+          "max": 40,
+          "outcome": {
+            "kind": "coins",
+            "formula": "4d12x1.000 T$",
+            "currency": "T$"
+          }
+        },
+        {
+          "min": 41,
+          "max": 75,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 1,
+            "bonusPercent": true
+          }
+        },
+        {
+          "min": 76,
+          "max": 100,
+          "outcome": {
+            "kind": "coins",
+            "formula": "1d12x1.000 TO",
+            "currency": "TO"
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 10,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 11,
+          "max": 40,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "minor"
+          }
+        },
+        {
+          "min": 41,
+          "max": 60,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "medium"
+          }
+        },
+        {
+          "min": 61,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 1,
+            "magicTier": "major"
+          }
+        }
+      ]
+    },
+    {
+      "nd": 20,
+      "money": [
+        {
+          "min": 1,
+          "max": 5,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 6,
+          "max": 40,
+          "outcome": {
+            "kind": "coins",
+            "formula": "2d4x1.000 TO",
+            "currency": "TO"
+          }
+        },
+        {
+          "min": 41,
+          "max": 75,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 0,
+            "countFormula": "1d3"
+          }
+        },
+        {
+          "min": 76,
+          "max": 100,
+          "outcome": {
+            "kind": "riches",
+            "tier": "major",
+            "count": 0,
+            "countFormula": "1d3+1",
+            "bonusPercent": true
+          }
+        }
+      ],
+      "items": [
+        {
+          "min": 1,
+          "max": 5,
+          "outcome": {
+            "kind": "none"
+          }
+        },
+        {
+          "min": 6,
+          "max": 40,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "minor"
+          }
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "medium"
+          }
+        },
+        {
+          "min": 51,
+          "max": 100,
+          "outcome": {
+            "kind": "table",
+            "table": "magic-accessories",
+            "rolls": 2,
+            "magicTier": "major"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "weapons": [
+    {
+      "min": 1,
+      "max": 10,
+      "label": "Atroz*",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 11,
+      "max": 12,
+      "label": "Banhada a ouro",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 13,
+      "max": 20,
+      "label": "Certeira",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 21,
+      "max": 21,
+      "label": "Conduíte",
+      "book": "Deuses de Arton",
+      "page": 54
+    },
+    {
+      "min": 22,
+      "max": 23,
+      "label": "Cravejada de gemas",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 24,
+      "max": 31,
+      "label": "Cruel",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 32,
+      "max": 33,
+      "label": "Discreta",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 34,
+      "max": 38,
+      "label": "Equilibrada",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 39,
+      "max": 42,
+      "label": "Farpada",
+      "book": "Heróis de Arton",
+      "page": 239
+    },
+    {
+      "min": 43,
+      "max": 44,
+      "label": "Guarda",
+      "book": "Heróis de Arton",
+      "page": 239
+    },
+    {
+      "min": 45,
+      "max": 48,
+      "label": "Harmonizada",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 49,
+      "max": 49,
+      "label": "Incendiária",
+      "book": "Heróis de Arton",
+      "page": 239
+    },
+    {
+      "min": 50,
+      "max": 53,
+      "label": "Injeção alquímica",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 54,
+      "max": 55,
+      "label": "Macabra",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 56,
+      "max": 65,
+      "label": "Maciça",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 66,
+      "max": 75,
+      "label": "Material especial**",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 76,
+      "max": 79,
+      "label": "Mira telescópica",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 80,
+      "max": 87,
+      "label": "Precisa",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 88,
+      "max": 89,
+      "label": "Pressurizada",
+      "book": "Heróis de Arton",
+      "page": 240
+    },
+    {
+      "min": 90,
+      "max": 99,
+      "label": "Pungente*",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Usada",
+      "book": "Heróis de Arton",
+      "page": 240
+    }
+  ],
+  "armor": [
+    {
+      "min": 1,
+      "max": 10,
+      "label": "Ajustada",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 11,
+      "max": 14,
+      "label": "Balístico",
+      "book": "Heróis de Arton",
+      "page": 239
+    },
+    {
+      "min": 15,
+      "max": 18,
+      "label": "Banhada a ouro",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 19,
+      "max": 22,
+      "label": "Cravejada de gemas",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 23,
+      "max": 27,
+      "label": "Delicada",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 28,
+      "max": 29,
+      "label": "Deslumbrante*",
+      "book": "Heróis de Arton",
+      "page": 239
+    },
+    {
+      "min": 30,
+      "max": 31,
+      "label": "Diligente",
+      "book": "Deuses de Arton",
+      "page": 54
+    },
+    {
+      "min": 32,
+      "max": 35,
+      "label": "Discreta",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 36,
+      "max": 39,
+      "label": "Espinhos",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 40,
+      "max": 43,
+      "label": "Injetora",
+      "book": "Heróis de Arton",
+      "page": 240
+    },
+    {
+      "min": 44,
+      "max": 47,
+      "label": "Inscrito",
+      "book": "Deuses de Arton",
+      "page": 54
+    },
+    {
+      "min": 48,
+      "max": 49,
+      "label": "Macabra",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 50,
+      "max": 59,
+      "label": "Material especial**",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 60,
+      "max": 64,
+      "label": "Polida",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 65,
+      "max": 84,
+      "label": "Reforçada",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 85,
+      "max": 95,
+      "label": "Selada",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 96,
+      "max": 100,
+      "label": "Sob medida*",
+      "book": "Tormenta20",
+      "page": 166
+    }
+  ],
+  "esoteric": [
+    {
+      "min": 1,
+      "max": 3,
+      "label": "Banhado a ouro",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 4,
+      "max": 18,
+      "label": "Canalizador",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 19,
+      "max": 21,
+      "label": "Canônico",
+      "book": "Deuses de Arton",
+      "page": 54
+    },
+    {
+      "min": 22,
+      "max": 24,
+      "label": "Cravejado de gemas",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 25,
+      "max": 28,
+      "label": "Discreto",
+      "book": "Tormenta20",
+      "page": 164
+    },
+    {
+      "min": 29,
+      "max": 43,
+      "label": "Energético",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 44,
+      "max": 58,
+      "label": "Harmonizado",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 59,
+      "max": 61,
+      "label": "Macabro",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 62,
+      "max": 70,
+      "label": "Material especial**",
+      "book": "Tormenta20",
+      "page": 165
+    },
+    {
+      "min": 71,
+      "max": 80,
+      "label": "Poderoso",
+      "book": "Tormenta20",
+      "page": 166
+    },
+    {
+      "min": 81,
+      "max": 90,
+      "label": "Potencializador*",
+      "book": "Heróis de Arton",
+      "page": 240
+    },
+    {
+      "min": 91,
+      "max": 100,
+      "label": "Vigilante",
+      "book": "Tormenta20",
+      "page": 166
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "minor": [
+    {
+      "min": 1,
+      "max": 25,
+      "label": "Riqueza menor",
+      "formula": "4d4 (10)",
+      "description": "0,5 espaço: ágata trincada, anel de hematita, bule de chá com gravações em prata, 1d4+1 soldadinhos de chumbo do Exército do Reinado, jarro de mel, prato de bronze, tapeçaria simples sem moldura, tinta de tecido suficiente para uma roupa;\n1 espaço: caixa com velas aromáticas, estandarte em algodão de um nobre menor, kobold de pelúcia em tamanho natural, roldana de ferro;\n2 espaços: barrilete de óleo cru, espantalho imitando um hynne nobre, rolo de algodão tecido, tela para pintura;\n5 espaços: barril de farinha ou gaiola com galinhas."
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "label": "Riqueza menor",
+      "formula": "1d4x10 (25)",
+      "description": "0,5 espaço: colar de presas de bulette, livreto de poesia bucaneira, quartzo rosa, topázio;\n1 espaço: ânfora de prata com símbolo de Marah (vale o dobro em um templo da deusa), caixa de tabaco, rolo de linho, urna de sais aromáticos (pode ser usada como ingrediente para preparados), saco com penas de hipossauro;\n2 espaços: conjunto de talheres de prata, jarro de especiarias, como canela, gorad, pimenta ou sal;\n5 espaços: candelabro de bronze, colchão de palha de boa qualidade;\n—: vaca leiteira (irá acompanhá-lo se você for treinado em Adestramento)"
+    },
+    {
+      "min": 41,
+      "max": 55,
+      "label": "Riqueza menor",
+      "formula": "2d4x10 (50)",
+      "description": "0,5 espaço: ampulheta, arreios de prata, barra de gorad, bracelete de ouro finamente trabalhado, cadeado de latão de boa qualidade, leque de bambu e seda, garrafa com água das profundezas do Mar Negro (supostamente possui propriedades mágicas);\n1 espaço: bengala de ébano com uma cabeça de serpente de marfim, estatueta de osso entalhado, frutas exóticas (estragam em 2d4 dias), lamparina de ouro (vale o dobro para um devoto de Azgher), livro de crônicas roramarianas, livro de receitas campeiras de Namalkah, molde para fabricar velas, rolo de seda\n2 espaço: brazeiro de latão decorado, cobertor para montaria, couro curtido de um burafonte, vaso de prata."
+    },
+    {
+      "min": 56,
+      "max": 70,
+      "label": "Riqueza menor",
+      "formula": "4d6x10 (140)",
+      "description": "0,5 espaço: ametista, cartas de um nobre falecido (seus descendentes podem pagar o dobro), frasco de tinta allavir, pente de madeira Tollon, pérola branca, suspensórios elegantes;\n1 espaço: caixa com 5 pares de meias de seda, cálice de prata com gemas de lápis-lazúli, estojo com sinete e apetrechos burocráticos (vale o dobro para o proprietário original), lingote de prata, sapatilha élfica confortável, tiara sinuosa própria para uma medusa, traje de festa exclusivo (concede +2 em Diplomacia durante a primeira cena em que for usado);\n2 espaços: alvo para disparos sofisticado (treinar nele fornece +1 em Pontaria até o fim da aventura, mas o destrói), bloco de gelo das Uivantes (derrete em 1d6+3 dias), estatueta de uma cocatriz com olhos de madrepérola;\n5 espaços: tapeçaria grande e bem-feita de lã;\n20 espaços: porta de madeira maciça finamente entalhada."
+    },
+    {
+      "min": 71,
+      "max": 85,
+      "label": "Riqueza menor",
+      "formula": "1d6x100 (350)",
+      "description": "0,5 espaço: alexandrita, pérola negra, peruca de crina de pégaso;\n1 espaço: caleidoscópio de bronze com imagens doheritas, espada cerimonial ornada com prata e gema negra no cabo, toga tapistana com barra bordada em ouro, pente de prata com pedras preciosas, roda de queijo de seiva de galhada (rende 12 fatias; cada uma recupera 1d4+1 PV), sapatos de dança em couro de serpe;\n2 espaços: relógio de parede kliren;\n5 espaços: cadeira de madeira Tollon, cavalo de balanço com crina de verdade;\n10 espaços: conjunto de velas de um galeão;\n—: carruagem (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 86,
+      "max": 95,
+      "label": "Riqueza menor",
+      "formula": "2d6x100 (700)",
+      "description": "0,5 espaço: baralho de Wyrt com tinta de ouro, bracelete banhado em adamante, condecoração militar da Guerra Artoniana;\n1 espaço: escultura de vidro feito com areia de Halak-Tur, estatueta de Valkaria em prata azulada, pente em forma de dragão com olhos de gema vermelha, máscara teatral de marfim com pedras preciosas, réplica do machado Zakharin (portá-lo é crime no Reinado), vestido digno de uma princesa;\n2 espaços: telescópio portátil;\n5 espaços: barril de cerveja fina de Doherimm, harpa de madeira exótica com ornamentos de zircão e marfim;\n10 espaços: tronco de madeira Tollon."
+    },
+    {
+      "min": 96,
+      "max": 99,
+      "label": "Riqueza menor",
+      "formula": "2d8x100 (900)",
+      "description": "0,5 espaço: brinco com uma joia de aço-rubi, opala negra, tapa-olho com um olho falso de safira;\n1 espaço: luva bordada e adornada com gemas, pingente de opala vermelha com corrente de ouro;\n2 espaços: gaiola de prata para falcoaria, lingote de ouro, pintura antiga;\n5 espaços: barril de especiarias de Moreania;\n—: carroça cheia de mercadorias comuns (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Riqueza menor",
+      "formula": "4d10x100 (2.200)",
+      "description": "0,5 espaço: esmeralda verde, pingente de safira;\n1 espaço: caixinha de música de ouro, ovo de grifo (com tempo e cuidado, pode ser transformado em um parceiro grifo iniciante), tornozeleira com gemas;\n2 espaços: manto bordado em veludo e seda com inúmeras pedras preciosas;\n5 espaços: berço de madeira Tollon com detalhes em ouro, chafariz de mármore para fonte de jardim, conjunto de taças de cristal em caixote;\n20 espaços: coluna de mármore em estilo neogórdio."
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "label": "Riqueza menor"
+    }
+  ],
+  "medium": [
+    {
+      "min": 1,
+      "max": 10,
+      "label": "Riqueza média",
+      "formula": "2d4x10 (50)",
+      "description": "0,5 espaço: ampulheta, arreios de prata, barra de gorad, bracelete de ouro finamente trabalhado, cadeado de latão de boa qualidade, leque de bambu e seda, garrafa com água das profundezas do Mar Negro (supostamente possui propriedades mágicas);\n1 espaço: bengala de ébano com uma cabeça de serpente de marfim, estatueta de osso entalhado, frutas exóticas (estragam em 2d4 dias), lamparina de ouro (vale o dobro para um devoto de Azgher), livro de crônicas roramarianas, livro de receitas campeiras de Namalkah, molde para fabricar velas, rolo de seda\n2 espaço: brazeiro de latão decorado, cobertor para montaria, couro curtido de um burafonte, vaso de prata."
+    },
+    {
+      "min": 11,
+      "max": 30,
+      "label": "Riqueza média",
+      "formula": "4d6x10 (140)",
+      "description": "0,5 espaço: ametista, cartas de um nobre falecido (seus descendentes podem pagar o dobro), frasco de tinta allavir, pente de madeira Tollon, pérola branca, suspensórios elegantes;\n1 espaço: caixa com 5 pares de meias de seda, cálice de prata com gemas de lápis-lazúli, estojo com sinete e apetrechos burocráticos (vale o dobro para o proprietário original), lingote de prata, sapatilha élfica confortável, tiara sinuosa própria para uma medusa, traje de festa exclusivo (concede +2 em Diplomacia durante a primeira cena em que for usado);\n2 espaços: alvo para disparos sofisticado (treinar nele fornece +1 em Pontaria até o fim da aventura, mas o destrói), bloco de gelo das Uivantes (derrete em 1d6+3 dias), estatueta de uma cocatriz com olhos de madrepérola;\n5 espaços: tapeçaria grande e bem-feita de lã;\n20 espaços: porta de madeira maciça finamente entalhada."
+    },
+    {
+      "min": 31,
+      "max": 50,
+      "label": "Riqueza média",
+      "formula": "1d6x100 (350)",
+      "description": "0,5 espaço: alexandrita, pérola negra, peruca de crina de pégaso;\n1 espaço: caleidoscópio de bronze com imagens doheritas, espada cerimonial ornada com prata e gema negra no cabo, toga tapistana com barra bordada em ouro, pente de prata com pedras preciosas, roda de queijo de seiva de galhada (rende 12 fatias; cada uma recupera 1d4+1 PV), sapatos de dança em couro de serpe;\n2 espaços: relógio de parede kliren;\n5 espaços: cadeira de madeira Tollon, cavalo de balanço com crina de verdade;\n10 espaços: conjunto de velas de um galeão;\n—: carruagem (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 51,
+      "max": 65,
+      "label": "Riqueza média",
+      "formula": "2d6x100 (700)",
+      "description": "0,5 espaço: baralho de Wyrt com tinta de ouro, bracelete banhado em adamante, condecoração militar da Guerra Artoniana;\n1 espaço: escultura de vidro feito com areia de Halak-Tur, estatueta de Valkaria em prata azulada, pente em forma de dragão com olhos de gema vermelha, máscara teatral de marfim com pedras preciosas, réplica do machado Zakharin (portá-lo é crime no Reinado), vestido digno de uma princesa;\n2 espaços: telescópio portátil;\n5 espaços: barril de cerveja fina de Doherimm, harpa de madeira exótica com ornamentos de zircão e marfim;\n10 espaços: tronco de madeira Tollon."
+    },
+    {
+      "min": 66,
+      "max": 80,
+      "label": "Riqueza média",
+      "formula": "2d8x100 (900)",
+      "description": "0,5 espaço: brinco com uma joia de aço-rubi, opala negra, tapa-olho com um olho falso de safira;\n1 espaço: luva bordada e adornada com gemas, pingente de opala vermelha com corrente de ouro;\n2 espaços: gaiola de prata para falcoaria, lingote de ouro, pintura antiga;\n5 espaços: barril de especiarias de Moreania;\n—: carroça cheia de mercadorias comuns (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 81,
+      "max": 90,
+      "label": "Riqueza média",
+      "formula": "4d10x100 (2.200)",
+      "description": "0,5 espaço: esmeralda verde, pingente de safira;\n1 espaço: caixinha de música de ouro, ovo de grifo (com tempo e cuidado, pode ser transformado em um parceiro grifo iniciante), tornozeleira com gemas;\n2 espaços: manto bordado em veludo e seda com inúmeras pedras preciosas;\n5 espaços: berço de madeira Tollon com detalhes em ouro, chafariz de mármore para fonte de jardim, conjunto de taças de cristal em caixote;\n20 espaços: coluna de mármore em estilo neogórdio."
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "label": "Riqueza média",
+      "formula": "6d12x100 (3.900)",
+      "description": "0,5 espaços: anel de prata e safira, correntinha com pequenas pérolas rosas, diamante branco, pingente de ouro com um topázio em forma de Marah;\n1 espaço: espelho feito na Pondsmânia (adiciona traços feéricos ao reflexo do usuário);\n2 espaços: miniatura mecânica de um dragão feita por um inventor renomado, tábua de granito com reprodução da Tarvica em letras de ouro, vestido digno de uma rainha;\n5 espaços: ídolo de ouro puro maciço, quadro élfico em estilo sobrenaturalista;\n100 espaços: bloco de mármore bruto."
+    },
+    {
+      "min": 96,
+      "max": 99,
+      "label": "Riqueza média",
+      "formula": "2d10x1.000 (11.000)",
+      "description": "0,5 espaço: anel de ouro e rubi, diamante vermelho;\n1 espaço: tiara de mitral cravejada de rubis;\n2 espaços: conjunto de taças de ouro decoradas com esmeraldas;\n5 espaços: busto de Tanna-Toh esculpido por um artista famoso, globo de Arton com pedras preciosas marcando os pontos de interesse conhecidos;\n10 espaços: quadro do arquimago Vectorius em tamanho natural;\n20 espaços: piano em madeira Tollon com cordas de mitral e teclas de marfim de Galrasia, estátua dourada de Klunk."
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Riqueza média",
+      "formula": "6d8x1.000 (27.000)",
+      "description": "1 espaço: coroa de ouro adornada com centenas de gemas que pertenceu a um antigo monarca;\n2 espaço: baú de mitral com coleção de diamantes, tapeçaria da Tormenta em estilo grigoriano (observá-la fornece 1 PM temporário para devotos de Aharadak uma vez por dia);\n5 espaço: estatueta de gelo eterno com uma essência elemental agitada em seu interior;\n20 espaços: meteorito de adamante bruto, sino de catedral de ouro maciço."
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Riqueza média"
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "label": "Riqueza média"
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Riqueza média"
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "label": "Riqueza média"
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "label": "Riqueza média"
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "label": "Riqueza média"
+    }
+  ],
+  "major": [
+    {
+      "min": 1,
+      "max": 5,
+      "label": "Riqueza maior",
+      "formula": "1d6x100 (350)",
+      "description": "0,5 espaço: alexandrita, pérola negra, peruca de crina de pégaso;\n1 espaço: caleidoscópio de bronze com imagens doheritas, espada cerimonial ornada com prata e gema negra no cabo, toga tapistana com barra bordada em ouro, pente de prata com pedras preciosas, roda de queijo de seiva de galhada (rende 12 fatias; cada uma recupera 1d4+1 PV), sapatos de dança em couro de serpe;\n2 espaços: relógio de parede kliren;\n5 espaços: cadeira de madeira Tollon, cavalo de balanço com crina de verdade;\n10 espaços: conjunto de velas de um galeão;\n—: carruagem (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 6,
+      "max": 15,
+      "label": "Riqueza maior",
+      "formula": "2d6x100 (700)",
+      "description": "0,5 espaço: baralho de Wyrt com tinta de ouro, bracelete banhado em adamante, condecoração militar da Guerra Artoniana;\n1 espaço: escultura de vidro feito com areia de Halak-Tur, estatueta de Valkaria em prata azulada, pente em forma de dragão com olhos de gema vermelha, máscara teatral de marfim com pedras preciosas, réplica do machado Zakharin (portá-lo é crime no Reinado), vestido digno de uma princesa;\n2 espaços: telescópio portátil;\n5 espaços: barril de cerveja fina de Doherimm, harpa de madeira exótica com ornamentos de zircão e marfim;\n10 espaços: tronco de madeira Tollon."
+    },
+    {
+      "min": 16,
+      "max": 25,
+      "label": "Riqueza maior",
+      "formula": "2d8x100 (900)",
+      "description": "0,5 espaço: brinco com uma joia de aço-rubi, opala negra, tapa-olho com um olho falso de safira;\n1 espaço: luva bordada e adornada com gemas, pingente de opala vermelha com corrente de ouro;\n2 espaços: gaiola de prata para falcoaria, lingote de ouro, pintura antiga;\n5 espaços: barril de especiarias de Moreania;\n—: carroça cheia de mercadorias comuns (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 26,
+      "max": 40,
+      "label": "Riqueza maior",
+      "formula": "4d10x100 (2.200)",
+      "description": "0,5 espaço: esmeralda verde, pingente de safira;\n1 espaço: caixinha de música de ouro, ovo de grifo (com tempo e cuidado, pode ser transformado em um parceiro grifo iniciante), tornozeleira com gemas;\n2 espaços: manto bordado em veludo e seda com inúmeras pedras preciosas;\n5 espaços: berço de madeira Tollon com detalhes em ouro, chafariz de mármore para fonte de jardim, conjunto de taças de cristal em caixote;\n20 espaços: coluna de mármore em estilo neogórdio."
+    },
+    {
+      "min": 41,
+      "max": 60,
+      "label": "Riqueza maior",
+      "formula": "6d12x100 (3.900)",
+      "description": "0,5 espaços: anel de prata e safira, correntinha com pequenas pérolas rosas, diamante branco, pingente de ouro com um topázio em forma de Marah;\n1 espaço: espelho feito na Pondsmânia (adiciona traços feéricos ao reflexo do usuário);\n2 espaços: miniatura mecânica de um dragão feita por um inventor renomado, tábua de granito com reprodução da Tarvica em letras de ouro, vestido digno de uma rainha;\n5 espaços: ídolo de ouro puro maciço, quadro élfico em estilo sobrenaturalista;\n100 espaços: bloco de mármore bruto."
+    },
+    {
+      "min": 61,
+      "max": 75,
+      "label": "Riqueza maior",
+      "formula": "2d10x1.000 (11.000)",
+      "description": "0,5 espaço: anel de ouro e rubi, diamante vermelho;\n1 espaço: tiara de mitral cravejada de rubis;\n2 espaços: conjunto de taças de ouro decoradas com esmeraldas;\n5 espaços: busto de Tanna-Toh esculpido por um artista famoso, globo de Arton com pedras preciosas marcando os pontos de interesse conhecidos;\n10 espaços: quadro do arquimago Vectorius em tamanho natural;\n20 espaços: piano em madeira Tollon com cordas de mitral e teclas de marfim de Galrasia, estátua dourada de Klunk."
+    },
+    {
+      "min": 76,
+      "max": 85,
+      "label": "Riqueza maior",
+      "formula": "6d8x1.000 (27.000)",
+      "description": "1 espaço: coroa de ouro adornada com centenas de gemas que pertenceu a um antigo monarca;\n2 espaço: baú de mitral com coleção de diamantes, tapeçaria da Tormenta em estilo grigoriano (observá-la fornece 1 PM temporário para devotos de Aharadak uma vez por dia);\n5 espaço: estatueta de gelo eterno com uma essência elemental agitada em seu interior;\n20 espaços: meteorito de adamante bruto, sino de catedral de ouro maciço."
+    },
+    {
+      "min": 86,
+      "max": 95,
+      "label": "Riqueza maior",
+      "formula": "1d10x10.000 (55.000)",
+      "description": "1 espaço: elmo de matéria vermelha com detalhes em rubis e turmalinas;\n10 espaços: altar religioso em granito e onix com inscrições em ouro, sarcófago de ouro cravejado de gemas;\n20 espaços: arca de madeira reforçada repleta de lingotes de prata e ouro e pedras preciosas de vários tipos;\n—: carruagem de luxo em madeira Tollon banhada a ouro com detalhes em metais finos e pedras preciosas (pode ser puxada por um animal de tração ou arrastada por um personagem como um item que ocupa 20 espaços)."
+    },
+    {
+      "min": 96,
+      "max": 100,
+      "label": "Riqueza maior",
+      "formula": "4d12x10.000 (260.000)",
+      "description": "20 espaços: estátua titanoteica em aventurina de uma divindade do Panteão;\n—: uma sala forrada de moedas (mover todo esse dinheiro exige trabalhadores e carroças, ou outra ideia por parte dos jogadores, além de atrair a atenção de bandidos, coletores de impostos e aproveitadores de vários tipos)."
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "entries": [
+    {
+      "min": 1,
+      "max": 1,
+      "label": "Abençoar Alimentos (óleo)",
+      "book": "Tormenta20",
+      "page": 178,
+      "price": 30
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "label": "Área Escorregadia (granada)",
+      "book": "Tormenta20",
+      "page": 180,
+      "price": 30
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "label": "Arma Mágica (óleo)",
+      "book": "Tormenta20",
+      "page": 181,
+      "price": 30
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "label": "Compreensão",
+      "book": "Tormenta20",
+      "page": 184,
+      "price": 30
+    },
+    {
+      "min": 6,
+      "max": 11,
+      "label": "Curar Ferimentos (2d8+2 PV)",
+      "book": "Tormenta20",
+      "page": 189,
+      "price": 30
+    },
+    {
+      "min": 12,
+      "max": 13,
+      "label": "Disfarce Ilusório",
+      "book": "Tormenta20",
+      "page": 191,
+      "price": 30
+    },
+    {
+      "min": 14,
+      "max": 15,
+      "label": "Escuridão (óleo)",
+      "book": "Tormenta20",
+      "page": 193,
+      "price": 30
+    },
+    {
+      "min": 16,
+      "max": 17,
+      "label": "Luz (óleo)",
+      "book": "Tormenta20",
+      "page": 197,
+      "price": 30
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "label": "Névoa (granada)",
+      "book": "Tormenta20",
+      "page": 200,
+      "price": 30
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "label": "Primor Atlético",
+      "book": "Tormenta20",
+      "page": 201,
+      "price": 30
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "label": "Sono",
+      "book": "Tormenta20",
+      "page": 207,
+      "price": 30
+    },
+    {
+      "min": 21,
+      "max": 22,
+      "label": "Proteção Divina",
+      "book": "Tormenta20",
+      "page": 202,
+      "price": 30
+    },
+    {
+      "min": 23,
+      "max": 24,
+      "label": "Resistência a Energia",
+      "book": "Tormenta20",
+      "page": 204,
+      "price": 30
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "label": "Suporte Ambiental",
+      "book": "Tormenta20",
+      "page": 207,
+      "price": 30
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "label": "Tranca Arcana (óleo)",
+      "book": "Tormenta20",
+      "page": 209,
+      "price": 30
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "label": "Visão Mística",
+      "book": "Tormenta20",
+      "page": 211,
+      "price": 30
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "label": "Vitalidade Fantasma",
+      "book": "Tormenta20",
+      "page": 211,
+      "price": 30
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "label": "Armadura Elemental",
+      "book": "Heróis de Arton",
+      "page": 252,
+      "price": 30
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "label": "Desafio Corajoso",
+      "book": "Heróis de Arton",
+      "page": 252,
+      "price": 30
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "label": "Discrição",
+      "book": "Heróis de Arton",
+      "page": 253,
+      "price": 30
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "label": "Farejar Fortuna",
+      "book": "Heróis de Arton",
+      "page": 254,
+      "price": 30
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "label": "Maaais Klunc",
+      "book": "Heróis de Arton",
+      "page": 254,
+      "price": 30
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "label": "Ossos de Adamante",
+      "book": "Heróis de Arton",
+      "page": 254,
+      "price": 30
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "label": "Punho de Mitral",
+      "book": "Heróis de Arton",
+      "page": 254,
+      "price": 30
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "label": "Magia Dadivosa",
+      "book": "Deuses de Arton",
+      "page": 62,
+      "price": 30
+    },
+    {
+      "min": 37,
+      "max": 37,
+      "label": "Sigilo de Sszzaas",
+      "book": "Deuses de Arton",
+      "page": 64,
+      "price": 30
+    },
+    {
+      "min": 38,
+      "max": 38,
+      "label": "Sorriso da Fortuna",
+      "book": "Deuses de Arton",
+      "page": 64,
+      "price": 30
+    },
+    {
+      "min": 39,
+      "max": 39,
+      "label": "Toque de Megalokk",
+      "book": "Deuses de Arton",
+      "page": 65,
+      "price": 30
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "label": "Voz da Razão",
+      "book": "Deuses de Arton",
+      "page": 65,
+      "price": 30
+    },
+    {
+      "min": 41,
+      "max": 42,
+      "label": "Escudo da Fé (aprimoramento para duração cena)",
+      "book": "Tormenta20",
+      "page": 192,
+      "price": 120
+    },
+    {
+      "min": 43,
+      "max": 44,
+      "label": "Alterar Tamanho",
+      "book": "Tormenta20",
+      "page": 179,
+      "price": 270
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "label": "Aparência Perfeita",
+      "book": "Tormenta20",
+      "page": 180,
+      "price": 270
+    },
+    {
+      "min": 46,
+      "max": 46,
+      "label": "Armamento da Natureza (óleo)",
+      "book": "Tormenta20",
+      "page": 181,
+      "price": 270
+    },
+    {
+      "min": 47,
+      "max": 50,
+      "label": "Bola de Fogo (granada)",
+      "book": "Tormenta20",
+      "page": 182,
+      "price": 270
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "label": "Camuflagem Ilusória",
+      "book": "Tormenta20",
+      "page": 183,
+      "price": 270
+    },
+    {
+      "min": 52,
+      "max": 52,
+      "label": "Concentração de Combate (aprimoramento para duração cena)",
+      "book": "Tormenta20",
+      "page": 185,
+      "price": 270
+    },
+    {
+      "min": 53,
+      "max": 56,
+      "label": "Curar Ferimentos (4d8+4 PV)",
+      "book": "Tormenta20",
+      "page": 189,
+      "price": 270
+    },
+    {
+      "min": 57,
+      "max": 58,
+      "label": "Físico Divino",
+      "book": "Tormenta20",
+      "page": 193,
+      "price": 270
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "label": "Mente Divina",
+      "book": "Tormenta20",
+      "page": 198,
+      "price": 270
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "label": "Metamorfose",
+      "book": "Tormenta20",
+      "page": 198,
+      "price": 270
+    },
+    {
+      "min": 61,
+      "max": 64,
+      "label": "Purificação",
+      "book": "Tormenta20",
+      "page": 202,
+      "price": 270
+    },
+    {
+      "min": 65,
+      "max": 66,
+      "label": "Velocidade",
+      "book": "Tormenta20",
+      "page": 210,
+      "price": 270
+    },
+    {
+      "min": 67,
+      "max": 68,
+      "label": "Vestimenta da Fé (óleo)",
+      "book": "Tormenta20",
+      "page": 210,
+      "price": 270
+    },
+    {
+      "min": 69,
+      "max": 69,
+      "label": "Voz Divina",
+      "book": "Tormenta20",
+      "page": 211,
+      "price": 270
+    },
+    {
+      "min": 70,
+      "max": 71,
+      "label": "Orientação (aprimoramento para duração cena; role o atributo afetado, sendo 1 = Força, 2 = Destreza e assim por diante)",
+      "book": "Tormenta20",
+      "page": 200,
+      "price": 270
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "label": "Aura de Morte",
+      "book": "Heróis de Arton",
+      "page": 252,
+      "price": 270
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "label": "Emular Magia",
+      "book": "Heróis de Arton",
+      "page": 253,
+      "price": 270
+    },
+    {
+      "min": 74,
+      "max": 74,
+      "label": "Punho de Mitral (aprimoramento para +2 em testes de ataque e margem de ameaça)",
+      "book": "Heróis de Arton",
+      "page": 255,
+      "price": 270
+    },
+    {
+      "min": 75,
+      "max": 75,
+      "label": "Viagem Onírica",
+      "book": "Heróis de Arton",
+      "page": 255,
+      "price": 270
+    },
+    {
+      "min": 76,
+      "max": 76,
+      "label": "Couraça de Allihanna (óleo)",
+      "book": "Deuses de Arton",
+      "page": 60,
+      "price": 270
+    },
+    {
+      "min": 77,
+      "max": 77,
+      "label": "Toque de Megalokk (aprimoramento para aumentar o dano das armas naturais em um passo e a margem de ameaça delas em +1 )",
+      "book": "Deuses de Arton",
+      "page": 65,
+      "price": 480
+    },
+    {
+      "min": 78,
+      "max": 79,
+      "label": "Arma Mágica (óleo; aprimoramento para bônus +3)",
+      "book": "Tormenta20",
+      "page": 181,
+      "price": 750
+    },
+    {
+      "min": 80,
+      "max": 81,
+      "label": "Proteção Divina (aprimoramento para bônus de +4)",
+      "book": "Tormenta20",
+      "page": 202,
+      "price": 750
+    },
+    {
+      "min": 82,
+      "max": 82,
+      "label": "Armadura Elemental (aprimoramento para 4d6 pontos de dano)",
+      "book": "Heróis de Arton",
+      "page": 252,
+      "price": 750
+    },
+    {
+      "min": 83,
+      "max": 88,
+      "label": "Curar Ferimentos (7d8+7 PV)",
+      "book": "Tormenta20",
+      "page": 189,
+      "price": 1
+    },
+    {
+      "min": 89,
+      "max": 90,
+      "label": "Físico Divino (aprimoramento para três atributos)",
+      "book": "Tormenta20",
+      "page": 193,
+      "price": 1
+    },
+    {
+      "min": 91,
+      "max": 92,
+      "label": "Invisibilidade (aprimoramento para duração cena)",
+      "book": "Tormenta20",
+      "page": 195,
+      "price": 1
+    },
+    {
+      "min": 93,
+      "max": 94,
+      "label": "Pele de Pedra",
+      "book": "Tormenta20",
+      "page": 201,
+      "price": 1
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "label": "Potência Divina",
+      "book": "Tormenta20",
+      "page": 201,
+      "price": 1
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "label": "Voo",
+      "book": "Tormenta20",
+      "page": 211,
+      "price": 1
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "label": "Percepção Rubra (aprimoramento para aumentar bônus em +3)",
+      "book": "Deuses de Arton",
+      "page": 63,
+      "price": 1
+    },
+    {
+      "min": 98,
+      "max": 100,
+      "label": "Bola de Fogo (granada; aprimoramento para 10d6 de dano)",
+      "book": "Tormenta20",
+      "page": 182,
+      "price": 1
+    },
+    {
+      "min": 101,
+      "max": 110,
+      "label": "Curar Ferimentos (11d8+11 PV)",
+      "book": "Tormenta20",
+      "page": 189,
+      "price": 3
+    },
+    {
+      "min": 111,
+      "max": 114,
+      "label": "Pele de Pedra (aprimoramento para pele de aço e RD 10)",
+      "book": "Tormenta20",
+      "page": 201,
+      "price": 3
+    },
+    {
+      "min": 115,
+      "max": 116,
+      "label": "Premonição",
+      "book": "Tormenta20",
+      "page": 201,
+      "price": 3
+    },
+    {
+      "min": 117,
+      "max": 117,
+      "label": "Viagem Onírica (aprimoramentos para falar e lançar magias)",
+      "book": "Heróis de Arton",
+      "page": 255,
+      "price": 3
+    },
+    {
+      "min": 118,
+      "max": 118,
+      "label": "Potência Divina (aprimoramento para Força +6 e RD 15)",
+      "book": "Tormenta20",
+      "page": 201,
+      "price": 6
+    },
+    {
+      "min": 119,
+      "max": 119,
+      "label": "Momento de Tormenta (granada; aprimoramento para +4 dados de dano do mesmo tipo)",
+      "book": "Ameaças de Arton",
+      "page": 404,
+      "price": 6
+    },
+    {
+      "min": 120,
+      "max": 120,
+      "label": "Transformação em Dragão (aprimoramentos para atributos +4, asas, arma de mordida e dano de sopro de 12d6+12)",
+      "book": "Ameaças de Arton",
+      "page": 405,
+      "price": 28
+    }
+  ]
+}
